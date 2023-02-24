@@ -10,9 +10,9 @@ I'm mainly only showing all the .as files to serve as a portfolio or proof-of-wo
 ### Actionscript 3.0?
 > while both TypeScript and JavaScript are similar to ActionScript 3, TypeScript's optional static typing makes it more similar to ActionScript 3 in terms of syntax and code structure. - **ChatGPT**
 
-![alt menu][2.png]
-![alt pressure][3.png]
-![alt ac][1.png]
+![alt menu](2.png)
+![alt pressure](3.png)
+![alt ac](1.png)
 
 ### Future updates:
 * Displaying .swf files on modern browsers w/o flash player. Cool project called [Ruffle](https://ruffle.rs/) that emulates flash player, its built with Rust, but unfortunately not compatible with as3.0...yet.
